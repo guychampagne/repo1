@@ -1,0 +1,2 @@
+Email Account Forwarders
+Send a copy of any incoming email from one address to another. For example, forward joe@example.com to joseph@example.com so that you only have one inbox to check. For more information, read the documentation.
